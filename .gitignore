@@ -1,0 +1,7 @@
+bin/
+obj/
+# Локальные настройки VS Code
+.vscode/
+# Системный мусор
+.DS_Store
+Thumbs.db
